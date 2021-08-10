@@ -1,0 +1,6 @@
+./configure --disable-openssl
+#Makefile
+CFLAGS=-g -O2 -Wno-cast-function-type 
+
+
+send file  bin/telegram-cli -k tg-server.pub -WR -e  "send_file Notes_English /workspace/downloads/990/222222.ab"
