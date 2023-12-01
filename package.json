@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^5.2.0",
+    "cli-table3": "^0.6.3",
+    "draftlog": "^1.0.13",
+    "fetch": "^1.1.0",
+    "glob": "^10.2.1",
+    "jsdom": "^22.0.0",
+    "json2csv": "^5.0.7",
+    "log4js": "^6.6.1",
+    "mathjs": "^11.5.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.0",
+    "node-fetch-retry": "^2.0.1",
+    "node-html-parser": "^6.1.5",
+    "pdfjs-dist": "^3.2.146",
+    "puppeteer": "^16.2.0",
+    "regression": "^2.0.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "simple-statistics": "^7.8.3",
+    "stats-analysis": "^2.0.0",
+    "ta-math": "^1.0.49",
+    "technicalindicators": "^3.1.0",
+    "tty-table": "^4.1.6",
+    "xlsx": "^0.18.5",
+    "xml2json": "^0.12.0"
+  },
+  "name": "name",
+  "version": "1.0.0",
+  "main": "name.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": ""
+}
